@@ -1,1 +1,4 @@
-# Exercícios de C do curso de TI
+# Exercícios em C
+
+Matéria: Introdução às Técnicas de Programação
+Linguagem utilizada: C
